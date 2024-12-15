@@ -1,1 +1,2 @@
-# retrowebcorner
+RetroWeb 1999 - Blog
+"RetroWeb 1999" is a retro-themed blog that recreates the nostalgic charm of late 90s internet design. Featuring elements like animated GIFs, a guestbook, and classic pop-up advertisements, the site brings back the quirky, vibrant energy of the web's early days. Currently under construction, it serves as a personal blog-in-progress, where future updates will include customized content to reflect my unique interests and experiences
